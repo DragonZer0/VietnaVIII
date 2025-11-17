@@ -11525,12 +11525,12 @@ header.masthead .footer-header{
   max-width: 26rem;
   margin-left: auto;
   margin-right: auto;
+  text-align: justify;
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
   display: block;
   margin: 0 auto;
-  text-align: justify;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
