@@ -11530,6 +11530,7 @@ header.masthead .footer-header{
   position: relative;
   display: block;
   margin: 0 auto;
+  text-align: justify;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
