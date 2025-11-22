@@ -11767,7 +11767,7 @@ header.masthead .footer-header{
 
 @media screen and (max-height: 840px) {
   .footer-header{
-    margin-top: -100px;
+    display: none;
   }
 }
 
