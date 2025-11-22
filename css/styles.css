@@ -11758,6 +11758,19 @@ header.masthead .footer-header{
     text-align: left;
   }
 }
+
+@media (max-height: 960px) {
+  .footer-header{
+    margin-top: -50px;
+  }
+}
+
+@media (max-height: 840px) {
+  .footer-header{
+    margin-top: -100px;
+  }
+}
+
 @media (min-width: 992px) {
   .timeline > li {
     min-height: 150px;
