@@ -11433,35 +11433,35 @@ header.masthead .footer-header{
 @media(min-width:320px) {
  
   header.masthead .masthead-subheading {
-    margin-top: 0rem !important;
-    padding-bottom:0 !important;
+    margin-top: 0rem;
+    padding-bottom:0;
     height: auto;
    }
   
   header.masthead .masthead-subheading img {
-    max-width: 15rem !important;
+    max-width: 15rem;
   }
   
 }
 
 @media(min-width:360px) {
   header.masthead .masthead-subheading {
-    margin-top: 0 !important;
+    margin-top: 0;
    }
   
   header.masthead .masthead-subheading img {
-    max-width: 18rem !important;
+    max-width: 18rem;
   }
   
 }
 
 @media(min-width:400px) {
   header.masthead .masthead-subheading {
-    margin-top: 0 !important;
+    margin-top: 0;
    }
   
   header.masthead .masthead-subheading img {
-    max-width: 20rem !important;
+    max-width: 20rem;
   }
   
 }
